@@ -1,7 +1,7 @@
 # Twitch Plays Mario
 The script used in a month-long Twitch stream where chat were in full control of Super Mario Bros.
 
-[![image](https://user-images.githubusercontent.com/30339741/130250004-203c77ce-0d34-4805-8a95-9920ed279eed.png)](https://www.twitch.tv/jotslo/clip/WildBlueToothPeanutButterJellyTime)
+[![image](https://user-images.githubusercontent.com/30339741/130250004-203c77ce-0d34-4805-8a95-9920ed279eed.png)](https://www.twitch.tv/jotslo/clip/WildBlueToothPeanutButterJellyTime-NsJw3GtpF84pB3xd)
 
 ## Description
 

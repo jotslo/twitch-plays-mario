@@ -1,5 +1,9 @@
-# twitch-plays-mario
+# Twitch Plays Mario
 The script used in a month-long Twitch stream where chat were in full control of Super Mario Bros.
+
+[![image](https://user-images.githubusercontent.com/30339741/130250004-203c77ce-0d34-4805-8a95-9920ed279eed.png)](https://www.twitch.tv/jotslo/clip/WildBlueToothPeanutButterJellyTime)
+
+## Description
 
 Twitch Plays Mario was an interactive game hosted on Twitch where the chat was in full control of Super Mario Bros. It took just under a month for the game to be fully completed.
 
